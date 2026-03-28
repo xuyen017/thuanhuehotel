@@ -96,6 +96,15 @@ transition: 0.5s ease-in-out;
     position: relative;
     height: 600px;
 }
+.heroSection2 {
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/nen9.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    height: 600px;
+}
 
 .heroImage {
     display: flex;
